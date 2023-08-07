@@ -10,4 +10,4 @@
 
 
 ## Presentation 
-[embed]https://github.com/OsaidAyadi/optimum-webpack/blob/main/webpack-presentation.pdf[/embed]
+https://github.com/OsaidAyadi/optimum-webpack/blob/main/webpack-presentation.pdf
